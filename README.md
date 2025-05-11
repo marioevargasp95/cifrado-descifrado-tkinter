@@ -28,9 +28,9 @@ El programa consta de una ventana principal desde la cual el usuario puede:
 
 ### Ventanas de la aplicación:
 
-| Ventana principal                        | Ventana de cifrado                          | Ventana de descifrado                        |
-|-----------------------------------------|---------------------------------------------|----------------------------------------------|
-| ![Main](screenshots/main.png)              | ![Cifrado](screenshots/cifrado.png)            | ![Descifrado](screenshots/descifrado png)       |
+| Ventana principal                      | Ventana de cifrado                    | Ventana de descifrado                 |
+|----------------------------------------|---------------------------------------|---------------------------------------|
+| ![Main](screenshots/main.PNG) | ![Cifrado](screenshots/cifrado.PNG) | ![Descifrado](screenshots/descifrado.PNG) |
 
 ---
 
