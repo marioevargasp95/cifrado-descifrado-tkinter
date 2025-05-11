@@ -30,7 +30,7 @@ El programa consta de una ventana principal desde la cual el usuario puede:
 
 | Ventana principal                        | Ventana de cifrado                          | Ventana de descifrado                        |
 |-----------------------------------------|---------------------------------------------|----------------------------------------------|
-| ![Main](capturas/main.png)              | ![Cifrado](capturas/cifrado.png)            | ![Descifrado](capturas/descifrado.png)       |
+| ![Main](screenshots/main.png)              | ![Cifrado](screenshots/cifrado.png)            | ![Descifrado](screenshots/descifrado png)       |
 
 ---
 
