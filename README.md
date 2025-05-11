@@ -1,15 +1,16 @@
 # 🔐 Aplicación de Cifrado y Descifrado de Números
 
 **Nombre del estudiante:** Mario Esteban Vargas Pisco  
-**Asignatura:** Aplicaciones I  
-**Fecha:** Mayo 10, 2025  
+**Asignatura:** Aplicaciones I - Maestría en Inteligencia Artificial - Profundización
+**Fecha:** Mayo 10, 2025
+**Universidad**  La Salle
 
 ---
 
 ## 📘 Introducción
 
 Esta aplicación fue desarrollada como parte del curso de Aplicaciones I con el propósito de implementar una interfaz gráfica en Python que permita al usuario cifrar y descifrar números de seis dígitos aplicando una lógica algorítmica.  
-El objetivo principal es familiarizarse con el desarrollo de interfaces usando `Tkinter`, aplicar lógica de programación y generar un entregable funcional empaquetado como ejecutable.
+El objetivo principal es familiarizarse con el desarrollo de interfaces usando `Tkinter` u otras, aplicar lógica de programación y generar un entregable funcional empaquetado como ejecutable.
 
 ---
 
@@ -18,6 +19,7 @@ El objetivo principal es familiarizarse con el desarrollo de interfaces usando `
 El programa consta de una ventana principal desde la cual el usuario puede:
 - **Cifrar un número**: se abre una ventana para ingresar un número de 6 dígitos y aplicar el algoritmo de cifrado.
 - **Descifrar un número**: se abre una ventana para revertir el cifrado y obtener el número original.
+- **Descifrar un número**: se generó una función para limitar el número de dígitos a 6 y solo sean números enteros.
 
 ### Algoritmo de cifrado:
 1. Se suma 7 a cada dígito y se aplica módulo 10.
