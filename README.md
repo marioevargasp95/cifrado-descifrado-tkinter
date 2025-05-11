@@ -19,7 +19,7 @@ El objetivo principal es familiarizarse con el desarrollo de interfaces usando `
 El programa consta de una ventana principal desde la cual el usuario puede:
 - **Cifrar un número**: se abre una ventana para ingresar un número de 6 dígitos y aplicar el algoritmo de cifrado.
 - **Descifrar un número**: se abre una ventana para revertir el cifrado y obtener el número original.
-- **Descifrar un número**: se generó una función para limitar el número de dígitos a 6 y solo sean números enteros.
+- **Nota**: se generó una función para limitar el número de dígitos a 6 y solo sean números enteros.
 
 ### Algoritmo de cifrado:
 1. Se suma 7 a cada dígito y se aplica módulo 10.
